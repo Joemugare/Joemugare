@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Joemugare
-- 👀 I’m interested in web scraping and AWS
+- 👀 I’m interested in Data Analysis, web scraping and AWS
 - 🌱 I’m currently learning kubernetes
 - 💞️ I’m looking to collaborate on assingments
 - 📫 How to reach me joemugare@gmail.com
